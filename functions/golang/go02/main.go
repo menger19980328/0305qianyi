@@ -1,4 +1,4 @@
-package go01
+package go02
 
 import (
 	"context"
